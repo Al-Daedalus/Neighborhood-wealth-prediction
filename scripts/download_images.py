@@ -34,7 +34,7 @@ for i in distances:
                 'location': '46.414382,10.013988',
                 'heading': '151.78',
                 'pitch': '-0.76',
-                'key': 'AIzaSyDLr7ME0HzCaAh5-xJvSEjmZ1ksDeih-Rw'
+                'key': ''
                 }]
         
         for coord in coordinates:
